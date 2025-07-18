@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! Eu sou o Vitor dos Santos Campos 👋
 
-<!--
-**Viuzin123/Viuzin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Apaixonado por desenvolvimento Back-End com Java  
+📊 Atualmente estudando Java e banco de dados com MySQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🔭 Atualmente trabalhando em um projeto de **Banco de Dados com Java usando JDBC**
+- 🌱 Aprendendo cada vez mais sobre **Java** e **MySQL**
+- 📫 Como me encontrar: [www.linkedin.com/in/vitor-santos-campos](https://www.linkedin.com/in/vitor-santos-campos)
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitincampos&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitincampos&layout=compact&theme=tokyonight)
+
+---
+
