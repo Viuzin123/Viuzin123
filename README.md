@@ -1,6 +1,6 @@
 # Olá! Eu sou o Vitor dos Santos Campos 👋
 
-🎓 Estudante de Sistemas de Informação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por desenvolvimento Back-End com Java  
 📊 Atualmente estudando Java e banco de dados com MySQL
 
