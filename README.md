@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🔭 Currently working on a **Database project using Java and JDBC**
+* 🔭 Currently working on a **Database project using Java and SpringBoot**
 * 🌱 Continuously learning more about **Java** and **MySQL**
 * 📫 How to reach me: [www.linkedin.com/in/vitor-santos-campos](https://www.linkedin.com/in/vitor-santos-campos)
 
