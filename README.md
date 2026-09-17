@@ -1,4 +1,4 @@
-# 🇧🇷 Olá! Eu sou o Vitor dos Santos Campos 👋
+# <img src="https://flagcdn.com/w20/br.png" width="20"> Brazil Olá! Eu sou o Vitor dos Santos Campos 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por desenvolvimento Back-End com Java  
@@ -24,7 +24,7 @@
 
 ---
 
-# Hello! I'm Vitor dos Santos Campos 👋
+# <img src="https://flagcdn.com/w20/us.png" width="20"> USA Hello! I'm Vitor dos Santos Campos 👋
 
 🎓 Systems Analysis and Development student
 💻 Passionate about Back-End development with Java
