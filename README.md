@@ -24,6 +24,10 @@
 
 ---
 
+
+
+
+
 # <img src="https://flagcdn.com/w20/us.png" width="20"> USA Hello! I'm Vitor dos Santos Campos 👋
 
 🎓 Systems Analysis and Development student
