@@ -1,4 +1,4 @@
-# <img src="https://flagcdn.com/w20/us.png" width="20" Learning English Hello! I'm Vitor dos Santos Campos 👋
+# <img src="https://flagcdn.com/w20/us.png" width="20"> Learning English Hello! I'm Vitor dos Santos Campos 👋
 
 🎓 Systems Analysis and Development student
 💻 Passionate about Back-End development with Java
